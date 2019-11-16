@@ -10,7 +10,7 @@ var width = svgWidth - margin.left - margin.right;
 var height = svgHeight - margin.top - margin.bottom;
 // create the area for the graph
 var svg = d3
-    .select("body")
+    .select("#scatter")
     .append("svg")
     .attr("width", svgWidth)
     .attr("height", svgHeight);
@@ -96,8 +96,12 @@ d3.csv("./assets/data/books.csv").then(function (BookData) {
             toolTip.hide(data);
         });
 
+
+
 }).catch(function (error) {
     console.log(error);
-});
-
+}).then(d => {
+    console.log("done");
+    $("#scatter").fadeIn(4000);
+})
 
