@@ -58,27 +58,36 @@ d3.csv("books.csv").then(function (BookData) {
         .append("circle")
         .attr("cx", d => xLinearScale(d.ratings_count))
         .attr("cy", d => yLinearScale(d.text_reviews_count))
-        .attr("r", "3")
-        .attr("fill", "grey")
+        .attr("r", "4")
+        .style("fill", "blue")
+        .style("opacity", 0.4)
         .attr("class", d => "stateCircle " + d.abbr);
 
     // Create axes labels
     chartGroup.append("text")
         .attr("transform", "rotate(-90)")
-        .attr("y", 0 - margin.left + 40)
+        .attr("y", 0 - margin.left + 100)
         .attr("x", 0 - (height / 2))
         .attr("dy", "1em")
         .attr("class", "axisText")
-        .text("Text Reviews");
+        .text("Number of Text Reviews");
 
     chartGroup.append("text")
         .attr("transform", `translate(${width / 2}, ${height + margin.top + 30})`)
+        .attr("y", 0 - margin.bottom + 20)
+        .attr("x", "center")
+        .attr("dx", "1em")
         .attr("class", "axisText")
-        .text("Number of Pages");
+        .text("Number of Ratings");
 
     // Initialize tool tip
     var toolTip = d3.tip()
         .attr("class", "tooltip")
+        .style("background-color", "white")
+        .style("border", "solid")
+        .style("border-width", "1px")
+        .style("border-radius", "5px")
+        .style("padding", "10px")
         .offset([80, -60])
         .html(function (d) {
             return (`${d.title}<br>Number of Ratings: ${d.ratings_count}<br>Number of Text Reviews: ${d.text_reviews_count}`);
