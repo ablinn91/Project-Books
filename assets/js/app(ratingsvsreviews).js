@@ -9,6 +9,7 @@ var margin = {
 var width = svgWidth - margin.left - margin.right;
 var height = svgHeight - margin.top - margin.bottom;
 // create the area for the graph
+
 var svg = d3
     .select("#scatter")
     .append("svg")
@@ -75,7 +76,7 @@ d3.csv("books.csv").then(function (BookData) {
     chartGroup.append("text")
         .attr("transform", `translate(${width / 2}, ${height + margin.top + 30})`)
         .attr("y", 0 - margin.bottom + 20)
-        .attr("x", "center")
+        .attr("x", 0 - margin.bottom)
         .attr("dx", "1em")
         .attr("class", "axisText")
         .text("Number of Ratings");
@@ -104,8 +105,6 @@ d3.csv("books.csv").then(function (BookData) {
         .on("mouseout", function (data, index) {
             toolTip.hide(data);
         });
-
-
 
 }).catch(function (error) {
     console.log(error);
