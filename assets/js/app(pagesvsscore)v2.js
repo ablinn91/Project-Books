@@ -40,10 +40,10 @@ d3.csv("https://raw.githubusercontent.com/ablinn91/Project-Books/master/books%20
     console.log(BookData);
 
     var xLinearScale = d3.scaleLinear()
-        .domain([(d3.min(BookData, d => d.average_rating)), d3.max(BookData, d => d.average_rating)])
+        .domain([(d3.min(BookData, d => d["# num_pages"])), d3.max(BookData, d => d["# num_pages"])])
         .range([0, width]);
     var yLinearScale = d3.scaleLinear()
-        .domain([(d3.min(BookData, d => d["# num_pages"])), d3.max(BookData, d => d["# num_pages"])])
+        .domain([(d3.min(BookData, d => d.average_rating)), d3.max(BookData, d => d.average_rating)])
         .range([height, 0]);
 
     //create axis function
@@ -64,8 +64,8 @@ d3.csv("https://raw.githubusercontent.com/ablinn91/Project-Books/master/books%20
         .data(BookData)
         .enter()//this tels d3 to put new elements inside the page
         .append("circle")
-        .attr("cx", d => xLinearScale(d.average_rating))
-        .attr("cy", d => yLinearScale(d["# num_pages"]))
+        .attr("cx", d => xLinearScale(d["# num_pages"]))
+        .attr("cy", d => yLinearScale(d.average_rating))
         .attr("r", "4")
         .style("fill", "blue")
         .style("opacity", 0.4)
@@ -78,7 +78,7 @@ d3.csv("https://raw.githubusercontent.com/ablinn91/Project-Books/master/books%20
         .attr("x", 0 - (height / 2))
         .attr("dy", "1em")
         .attr("class", "axisText")
-        .text("Number of Pages");
+        .text("Average Rating");
 
     chartGroup.append("text")
         .attr("transform", `translate(${width / 2}, ${height + margin.top + 30})`)
@@ -86,7 +86,7 @@ d3.csv("https://raw.githubusercontent.com/ablinn91/Project-Books/master/books%20
         .attr("x", 0 - margin.bottom)
         .attr("dx", "1em")
         .attr("class", "axisText")
-        .text("Average Rating");
+        .text("Number of Pages");
 
     // Initialize tool tip
     var toolTip = d3.tip()
