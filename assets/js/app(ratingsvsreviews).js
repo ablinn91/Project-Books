@@ -10,17 +10,24 @@ var width = svgWidth - margin.left - margin.right;
 var height = svgHeight - margin.top - margin.bottom;
 // create the area for the graph
 
+//add zoom function
+// var zoom = d3.zoom()
+// .scaleExtent([.5, 20])  // This control how much you can unzoom (x0.5) and zoom (x20)
+// .extent([[0, 0], [width, height]])
+// .on("zoom", updateChart);
+
 var svg = d3
     .select("#scatter")
     .append("svg")
     .attr("width", svgWidth)
-    .attr("height", svgHeight);
+    .attr("height", svgHeight)
+    // .call(zoom);//add zom
 
 var chartGroup = svg.append("g")
     .attr("transform", `translate(${margin.left}, ${margin.top})`);
 
 
-d3.csv("books.csv").then(function (BookData) {
+d3.csv("https://raw.githubusercontent.com/ablinn91/Project-Books/master/books.csv").then(function (BookData) {
     console.log(BookData)
     //cast the data this is from homework 3.9
     //parses out the data
@@ -106,10 +113,12 @@ d3.csv("books.csv").then(function (BookData) {
             toolTip.hide(data);
         });
 
+        
+
 }).catch(function (error) {
     console.log(error);
 }).then(d => {
     console.log("done");
-    $("#scatter").fadeIn(4000);
+    $("#scatter").fadeIn(3000);
 })
 

@@ -21,7 +21,7 @@ var svg = d3.select(".chart")
 var chartGroup = svg.append("g")
   .attr("transform", `translate(${margin.left}, ${margin.top})`);
 
-var thing = "books.csv"
+var thing2 = "https://raw.githubusercontent.com/ablinn91/Project-Books/master/books.csv"
 // d3.csv(thing).then(function(data) {
 //   console.log(data);
 //   console.log("blah");
@@ -29,7 +29,7 @@ var thing = "books.csv"
 
 var row;
 
-d3.csv(thing).then(function (BookData) {
+d3.csv(thing2).then(function (BookData) {
 
   //cast the data this is from homework 3.9
   //var numPagesNumber = BookData.num_pages.map(number);
