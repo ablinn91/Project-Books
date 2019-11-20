@@ -321,7 +321,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 941,Love As A Foreign Language #5,J. Torres-Eric  Kim,3.44,1932664394,9.78193E+12,eng,58,9,2
 944,Jungle Love,Margaret Johnson-Philip Prowse,3.37,521750849,9.78052E+12,eng,95,57,6
 947,First Impressions,Nora Roberts,3.74,373510055,9.78037E+12,eng,250,31,3
-,,,,,,,,,
 960,Angels & Demons (Robert Langdon  #1),Dan Brown,3.88,1416524797,9.78142E+12,eng,736,2279854,20851
 965,Ángeles y demonios (Robert Langdon  #1),Dan Brown,3.88,849561877X,9.7885E+12,spa,508,197,22
 966,Angeles & Demonios,Dan Brown-Raúl Amundaray,3.88,972859896,9.78097E+12,spa,18,65,7
@@ -401,7 +400,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 1290,How to Succeed with Women,Ron  Louis-David Copeland,3.77,735200300,9.78074E+12,en-US,320,80,12
 1295,The Clan of the Cave Bear (Earth's Children  #1),Jean M. Auel,4.04,553381679,9.78055E+12,eng,512,183361,4406
 1296,The Clan of the Cave Bear (Earth's Children  #1),Jean M. Auel,4.04,517542021,9.78052E+12,eng,468,471,63
-,,,,,,,,,
 1301,Moneyball: The Art of Winning an Unfair Game,Michael   Lewis,4.26,393324818,9.78039E+12,eng,317,78308,4002
 1303,The 48 Laws of Power,Robert Greene-Joost Elffers,4.19,140280197,9.78014E+12,eng,452,52500,2751
 1305,Gates of Fire: An Epic Novel of the Battle of Thermopylae,Steven Pressfield,4.41,055338368X,9.78055E+12,eng,392,20649,1530
@@ -906,7 +904,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 2836,Bridge to Terabithia,Katherine Paterson-Donna Diamond,3.99,60734019,9.78006E+12,en-US,191,1764,148
 2839,Bridge to Terabithia,Katherine Paterson,3.99,439366771,9.78044E+12,eng,128,362535,8360
 2842,Bridge to Terabithia,Katherine Paterson,3.99,440841216,9.78044E+12,eng,128,100,19
-2843,Literature Circle Guide: Bridge to Terabithia: Everything You Need For Successful Literature Circles That Get Kids Thinking  Talking  Writing—and Loving Literature,Tara MacCarthy,5,439271711,9.78044E+12,eng,32,4,1
 2846,The Great Gilly Hopkins,Katherine Paterson,3.84,380652196,9.78038E+12,eng,148,10,1
 2847,Bread and Roses  Too,Katherine Paterson,3.76,618654798,9.78062E+12,eng,275,1954,289
 2848,Blueberries for the Queen,John  Paterson-Katherine Paterson-Susan Jeffers,3.76,66239427,9.78007E+12,eng,32,108,21
@@ -920,7 +917,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 2871,Burning Bright,Tracy Chevalier,3.36,052594978X,9.78053E+12,eng,320,10584,1088
 2872,Falling Angels,Tracy Chevalier,3.57,452283205,9.78045E+12,eng,336,19784,1184
 2873,The Virgin Blue,Tracy Chevalier,3.66,452284449,9.78045E+12,eng,304,25334,1563
-,,,,,,,,,
 2879,Bleach  Volume 15,Tite Kubo,4.42,1421506130,9.78142E+12,eng,208,19266,67
 2880,Bleach  Volume 01,Tite Kubo,4.22,1591164419,9.78159E+12,eng,200,136795,1011
 2881,Bleach  Volume 14,Tite Kubo,4.38,1421506122,9.78142E+12,eng,208,10019,71
@@ -1337,7 +1333,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 4241,Illuminati Papers,Robert Anton Wilson,3.83,1579510027,9.78158E+12,en-US,168,699,20
 4246,Sakrileg,Dan Brown,3.82,828815135,9.78083E+12,ger,617,71,4
 4248,The Da Vinci Code,Dan Brown,3.82,1400079179,9.7814E+12,eng,489,13789,1463
-,,,,,,,,,
 4250,El código Da Vinci (Robert Langdon  #2),Dan Brown-Juanjo Estrella,3.82,8495618605,9.7885E+12,spa,557,3098,184
 4251,Truth and Fiction in The Da Vinci Code: A Historian Reveals What We Really Know about Jesus  Mary Magdalene & Constantine,Bart D. Ehrman,3.63,195307135,9.7802E+12,en-US,207,516,48
 4256,Harry Potter and the Prisoner of Azkaban (Harry Potter  #3),J.K. Rowling,4.55,074757362X,9.78075E+12,eng,480,3116,147
@@ -1727,7 +1722,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 5358,The Firm,John Grisham-Robin Waterfield,4,582418275,9.78058E+12,eng,76,522946,3346
 5359,The Client,John Grisham,3.99,385339089,9.78039E+12,eng,483,351882,1887
 5360,A Painted House,John Grisham,3.69,385337930,9.78039E+12,eng,384,65551,3246
-,,,,,,,,,
 5364,Dragonfly in Amber (Outlander  #2),Diana Gabaldon,4.32,385335970,9.78039E+12,eng,743,208928,10733
 5367,The Great Book of Amber (The Chronicles of Amber  #1-10),Roger Zelazny,4.3,380809060,9.78038E+12,eng,1258,22974,864
 5368,Forever Amber,Kathleen Winsor,3.99,141009829,9.78014E+12,eng,972,14129,831
@@ -2063,7 +2057,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 6539,The Body Farm (Kay Scarpetta  #5),Patricia Cornwell,4.05,425201449,9.78043E+12,eng,351,54679,894
 6540,Trace (Kay Scarpetta  #13),Patricia Cornwell-Carolyn McCormick,3.78,143058320,9.78014E+12,en-US,11,46,9
 6541,Cause of Death (Kay Scarpetta  #7),Patricia Cornwell-C.J. Critt,3.93,425213382,9.78043E+12,en-US,356,37965,599
-,,,,,,,,,
 6543,At Risk (Winston Garano  #1),Patricia Cornwell,3.4,425214761,9.78043E+12,en-US,289,9832,576
 6544,The Scarpetta Collection: All That Remains / Cruel & Unusual (Kay Scarpetta  #3  #4),Patricia Cornwell,4.15,074325581X,9.78074E+12,eng,672,29,2
 6545,In the Dark of the Night,John Saul,3.88,034548701X,9.78035E+12,eng,324,4166,172
@@ -2166,7 +2159,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 6937,You Can Have What You Want: Proven Strategies for Inner and Outer Success,Michael Neill,4.16,1401911838,9.7814E+12,en-US,240,21,1
 6951,Like Water for Chocolate,Laura Esquivel-Thomas Christensen-Carol Christensen,3.94,385474016,9.78039E+12,eng,242,1418,182
 6952,Like Water for Chocolate,Laura Esquivel-Thomas  Christensen-Carol Christensen,3.94,552995878,9.78055E+12,eng,224,277087,4801
-,,,,,,,,,
 6954,Como agua para chocolate,Laura Esquivel,3.94,785731237,9.78079E+12,spa,248,11,2
 6956,The Radicalism of the American Revolution,Gordon S. Wood,4.05,679736883,9.78068E+12,eng,447,4064,186
 6969,Emma,Jane Austen-Fiona Stafford,3.99,141439580,9.78014E+12,eng,474,519245,10321
@@ -2365,7 +2357,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 7592,A Portrait of the Artist as a Young Man,James Joyce-Langdon Hammer,3.61,451530152,9.78045E+12,eng,256,417,47
 7594,Portrait Of An Artist  As An Old Man,Joseph Heller,3.22,074320848X,9.78074E+12,eng,240,987,70
 7596,Vincent Van Gogh: Portrait of an Artist,Jan Greenberg-Sandra Jordan,3.95,440419174,9.78044E+12,eng,144,209,35
-,,,,,,,,,
 7599,One Hundred Years of Solitude,Gabriel García Márquez-Gregory Rabassa,4.06,006112009X,9.78006E+12,eng,448,1510,201
 7600,One Hundred Years Of Solitude,Gabriel García Márquez,4.06,1857152239,9.78186E+12,eng,416,362,49
 7602,One Hundred Years of Solitude,Gabriel García Márquez-Gregory Rabassa,4.06,140278761,9.78014E+12,eng,422,954,112
@@ -2398,7 +2389,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 7670,The Andromeda Strain (Andromeda #1),Michael Crichton,3.89,60541814,9.78006E+12,eng,327,192637,2571
 7672,Congo,Michael Crichton,3.58,60541830,9.78006E+12,eng,442,140223,1468
 7673,Eaters of the Dead,Michael Crichton,3.66,60891564,9.78006E+12,eng,304,27412,1054
-,,,,,,,,,
 7677,Jurassic Park (Jurassic Park  #1),Michael Crichton,4.01,030734813X,9.78031E+12,spa,480,452245,3617
 7679,The Terminal Man,Michael Crichton,3.36,60092572,9.78006E+12,eng,266,20825,549
 7681,Five Patients,Michael Crichton,3.48,345354648,9.78035E+12,eng,204,4717,92
@@ -2426,7 +2416,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 7731,Antigone's Claim: Kinship Between Life and Death,Judith Butler,3.76,231118953,9.78023E+12,en-US,118,406,20
 7733,Gulliver's Travels,Jonathan Swift-Robert DeMaria Jr.,3.56,141439491,9.78014E+12,eng,306,185945,3273
 7734,Gulliver's Travels,Jonathan Swift-Claude Julien Rawson-Ian Higgins,3.56,192805347,9.78019E+12,eng,422,253,20
-,,,,,,,,,
 7739,Gulliver's Travels,Gill Harvey-Jonathan Swift,3.34,794503292,9.78079E+12,eng,64,13,3
 7740,Gulliver's Travels,Martin Woodside-Jamel Akib-Arthur Pober-Jonathan Swift,3.93,1402726627,9.7814E+12,eng,160,724,23
 7742,Ahab's Wife  or The Star-Gazer,Sena Jeter Naslund,4.03,60838744,9.78006E+12,eng,704,39429,2333
@@ -2738,7 +2727,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 8879,Planet of the Apes: Colony,William T. Quick,3.55,60086211,9.78006E+12,eng,288,22,1
 8880,Planet of the Apes  Volume 1: Old Gods,Ian Edginton,2.62,1569716684,9.78157E+12,eng,80,8,2
 8881,Planet of the Apes: The Fall,William T. Quick,3.22,60086203,9.78006E+12,eng,288,32,2
-,,,,,,,,,
 8891,Return to the Planet of the Apes:  Visions from Nowhere,William Arrow,3.23,345251229,9.78035E+12,eng,183,10,1
 8895,Planet of the Apes: The Human War,Ian Edginton,3.32,184023380X,9.78184E+12,eng,72,1,1
 8901,Battle for the Planet of the Apes,David Gerrold-John William Corrington-Joyce Hooper Corrington,3.67,891901639,9.78089E+12,eng,158,453,8
@@ -2747,7 +2735,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 8909,The War of the Worlds,H.G. Wells-Arthur C. Clarke,3.81,375759239,9.78038E+12,eng,192,183750,4114
 8910,The Second World War: A Complete History,Martin  Gilbert,4.19,805076239,9.78081E+12,eng,928,853,39
 8915,A Short History of World War II,James L. Stokesbury,3.93,688085873,9.78069E+12,eng,416,454,38
-,,,,,,,,,
 8917,Best Science Fiction Stories of H. G. Wells,H.G. Wells,3.84,486215318,9.78049E+12,eng,320,60,4
 8919,The Invisible Man,H.G. Wells,3.63,439574277,9.78044E+12,eng,208,321,20
 8921,The Hound of the Baskervilles (Sherlock Holmes  #5),Arthur Conan Doyle-Anne Perry-Maria Buitoni Duca-Sidney Paget,4.1,451528018,9.78045E+12,eng,256,178632,4441
@@ -3005,7 +2992,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 9827,King Rat (Asian Saga  #4),James Clavell,4.13,385333765,9.78039E+12,eng,368,27166,603
 9828,Rat Bastards: The Life and Times of South Boston's Most Honorable Irish Mobster,"John ""Red"" Shea-Mark Wahlberg",3.51,60837160,9.78006E+12,eng,304,34,3
 9831,Julius Knipl  Real Estate Photographer: The Beauty Supply District,Ben Katchor,4.34,375700986,9.78038E+12,eng,120,167,15
-,,,,,,,,,
 9833,Blind Willow  Sleeping Woman,Haruki Murakami-Philip Gabriel-Jay Rubin,3.84,1400044618,9.7814E+12,eng,333,21822,1222
 9834,The Crying of Lot 49,Thomas Pynchon,3.7,055313888X,9.78055E+12,eng,138,57,6
 9838,The Bookseller of Kabul,Åsne Seierstad-Ingrid Christopherson,3.77,316159417,9.78032E+12,en-US,288,33499,2409
@@ -3079,7 +3065,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 10065,Wayside School Is Falling Down (Wayside School #2),Louis Sachar-Joel Schick,4.17,380731509,9.78038E+12,eng,152,52011,763
 10071,All Falling Down,Gene Zion-Margaret Bloy Graham,3.53,437893502,9.78044E+12,eng,32,87,13
 10073,A Long Way Down,Nick Hornby,3.42,1594481938,9.78159E+12,eng,368,63741,3888
-,,,,,,,,,
 10079,Mary Queen of Scots,Antonia Fraser,4.04,038531129X,9.78039E+12,eng,568,11944,280
 10080,Mary Queen of Scots and the Murder of Lord Darnley,Alison Weir,4.03,712664564,9.78071E+12,eng,640,4827,118
 10081,Mary Queen of Scots and Her Hopeless Husbands,Margaret Simpson-Philip Reeve,3.68,043999926X,9.78044E+12,eng,208,126,15
@@ -3124,7 +3109,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 10205,Poems New and Collected,Wisława Szymborska-Clare Cavanagh,4.42,156011468,9.78016E+12,eng,296,2454,120
 10206,Sounds  Feelings  Thoughts:  Seventy Poems by Wislawa Szymborska,Wisława Szymborska-Magnus J. Kruyski,4.33,691013802,9.78069E+12,eng,232,213,19
 10210,Jane Eyre,Charlotte Brontë-Michael Mason-João Gaspar Rodrigues-Mécia,4.11,142437204,9.78014E+12,eng,532,1328143,26386
-,,,,,,,,,
 10216,The Far Pavilions,M.M. Kaye,4.21,055312997X,9.78055E+12,en-US,1191,177,38
 10217,Death in Kashmir,M.M. Kaye,3.95,312263104,9.78031E+12,eng,256,1435,93
 10219,The Sun in the Morning: My Early Years in India and England,M.M. Kaye,4.21,312049994,9.78031E+12,en-US,454,230,35
@@ -3243,7 +3227,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 10593,The Shining,Stephen King-Campbell Scott,4.2,743537009,9.78074E+12,eng,16,342,102
 10594,Stephen King: America's Best-Loved Boogeyman,George Beahm,3.79,836254279,9.78084E+12,en-US,304,49,3
 10597,The Illustrated Stephen King Trivia Book,Brian James Freeman-Bev Vincent-Glenn Chadbourne,4.23,1587671166,9.78159E+12,eng,404,22,5
-,,,,,,,,,
 10603,Cujo,Stephen King,3.7,307348245,9.78031E+12,spa,432,185847,2537
 10604,The Body Snatchers (Stephen King Horror Library),Jack Finney-Stephen King,3.89,1582881804,9.78158E+12,eng,224,181,10
 10605,Thinner,Richard Bachman-Stephen King,3.7,451190750,9.78045E+12,eng,320,147510,1394
@@ -3805,7 +3788,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 12212,Robert Frost: A Life,Jay Parini,4.13,805063412,9.78081E+12,eng,514,249,30
 12220,A Streetcar Named Desire,Tennessee Williams,3.98,822210894,9.78082E+12,eng,107,229601,2297
 12222,A Streetcar Named Desire,Tennessee Williams-Arthur  Miller,3.98,811216020,9.78081E+12,en-US,192,3242,322
-12224,Streetcar Suburbs: The Process of Growth in Boston  1870-1900,Sam Bass Warner, Jr.-Sam B. Warner,3.57,674842111,9.78067E+12,en-US,236,55
 12230,Pygmalion,George Bernard Shaw-Dan H. Laurence-Nicholas Grene,3.9,141439505,9.78014E+12,eng,122,1997,171
 12233,Pygmalion,George Bernard Shaw-James Hynes-Cynthia Brantley Johnson,3.9,1416500405,9.78142E+12,eng,194,572,49
 12240,The Play Soldier,Chet Green,4.5,159113644X,9.78159E+12,eng,328,2,2
@@ -4103,7 +4085,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 13103,The Celestine Prophecy (Celestine Prophecy  #1),James Redfield,3.63,446671002,9.78045E+12,eng,247,79714,3104
 13104,The Celestine Prophecy: A Pocket Guide to the Nine Insights,James Redfield,3.86,446912069,9.78045E+12,eng,68,1249,102
 13105,The Tenth Insight: Holding the Vision (Celestine Prophecy  #2),James Redfield,3.63,446674575,9.78045E+12,eng,256,9450,330
-,,,,,,,,,
 13107,The Celestine Prophecy: An Experiential Guide,James Redfield,3.84,553503707,9.78055E+12,eng,304,118,11
 13110,The Celestine Prophecy,James Redfield,3.63,044651862X,9.78045E+12,en-US,247,1280,162
 13113,Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values,Robert M. Pirsig,3.77,688052304,9.78069E+12,eng,412,414,43
@@ -4233,7 +4214,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 13497,A Feast for Crows (A Song of Ice and Fire  #4),George R.R. Martin,4.13,055358202X,9.78055E+12,eng,1061,491147,16606
 13500,Fevre Dream,George R.R. Martin,3.86,067145577X,9.78067E+12,eng,350,120,23
 13501,The Hedge Knight (The Hedge Knight Graphic Novels  #1),Ben Avery-Mike S. Miller-George R.R. Martin-Mike Crowell,4.13,097640110X,9.78098E+12,eng,164,14670,407
-,,,,,,,,,
 13505,Tuf Voyaging,George R.R. Martin,4.09,1592220045,9.78159E+12,en-US,448,61,7
 13506,Jack of Kinrowan: Jack the Giant-Killer / Drink Down the Moon,Charles de Lint,4.11,312869592,9.78031E+12,eng,412,3648,94
 13508,Lies My Teacher Told Me: Everything Your History Textbook Got Wrong,James W. Loewen,3.96,156584100X,9.78157E+12,eng,384,398,56
@@ -4403,7 +4383,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 13836,Wild Magic (Immortals  #1),Tamora Pierce,4.33,1416903437,9.78142E+12,eng,362,58923,1380
 13837,Lioness Rampant (Song of the Lioness  #4),Tamora Pierce,4.29,689878575,9.78069E+12,en-US,384,69728,1202
 13839,The Botany of Desire: A Plant's-Eye View of the World,Michael Pollan,4.06,375760393,9.78038E+12,eng,297,39426,2777
-,,,,,,,,,
 13843,The Hounds of the Mórrígan,Pat O'Shea,4.03,192752812,9.78019E+12,eng,480,2578,138
 13853,The Lion  the Witch and the Wardrobe,C.S. Lewis-Pauline Baynes,4.21,60530839,9.78006E+12,en-US,112,370,19
 13854,Promise of the Witch King (Forgotten Realms: The Sellswords  #2),R.A. Salvatore,4.17,786940735,9.78079E+12,eng,373,7605,97
@@ -4978,7 +4957,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 15686,The Outsider,Albert Camus-Joseph Laredo,3.97,141182504,9.78014E+12,eng,119,7401,503
 15688,L'Étranger,Albert Camus,3.97,2070360024,9.78207E+12,fre,184,12059,693
 15690,Outsider,Albert Camus,3.97,081912141X,9.78082E+12,eng,110,21,2
-,,,,,,,,,
 15692,The Possessed,Albert Camus-Justin O'Brien,3.81,039470245X,9.78039E+12,eng,190,310,18
 15698,Caligula,Albert Camus-Pierre-Louis Rey-P. Morgan-E.T. Jones,4.07,2070386708,9.78207E+12,fre,224,5682,196
 15701,Introducing Camus,David Zane Mairowitz-Alain Korkos,3.8,1840460644,9.78184E+12,en-US,176,153,13
@@ -5171,8 +5149,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 16306,Miss Marple: The Complete Short Stories (Miss Marple #15),Agatha Christie,4.2,6499627,9.78001E+12,eng,359,6235,257
 16307,Hallowe'en Party (Hercule Poirot  #39),Agatha Christie,3.66,7120680,9.78001E+12,eng,336,18820,1059
 16308,Taken at the Flood (Hercule Poirot  #28),Agatha Christie,3.71,7121016,9.78001E+12,eng,352,8852,457
-,,,,,,,,,
-,,,,,,,,,
 16314,4.50 From Paddington (Miss Marple  #8),Agatha Christie,3.95,7191014,9.78001E+12,eng,352,41,3
 16315,Crooked House,Agatha Christie,4.02,031298166X,9.78031E+12,eng,276,22176,1238
 16316,The Big Four (Hercule Poirot  #5),Agatha Christie,3.59,7120818,9.78001E+12,eng,272,22155,1244
@@ -5187,7 +5163,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 16331,Murder at the Vicarage (Miss Marple #1),Agatha Christie,4.05,1579126251,9.78158E+12,eng,288,113459,1976
 16332,Third Girl (Hercule Poirot  #38),Agatha Christie,3.62,7121105,9.78001E+12,eng,365,13705,528
 16333,At Bertram's Hotel (Miss Marple  #11),Agatha Christie,3.7,2310015,9.78E+12,eng,223,16913,647
-,,,,,,,,,
 16335,The Mystery of the Blue Train (Hercule Poirot  #6),Agatha Christie,3.8,1579126952,9.78158E+12,eng,317,21431,933
 16336,The Unexpected Guest: A Play In Two Acts,Agatha Christie,3.83,573014671,9.78057E+12,eng,100,2771,165
 16339,The Sittaford Mystery,Agatha Christie,3.7,7136846,9.78001E+12,eng,400,8329,488
@@ -5391,7 +5366,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 16900,Civil Disobedience and Other Essays,Henry David Thoreau,4.06,1420925229,9.78142E+12,eng,188,13473,185
 16902,Walden,Henry David Thoreau,3.79,691096120,9.78069E+12,eng,352,121540,3386
 16908,Interrupted Music: The Making of Tolkien's Mythology,Verlyn Flieger,4.18,873388240,9.78087E+12,eng,172,122,7
-16914,The Tolkien Fan's Medieval Reader,David E. Smith (Turgon of TheOneRing.net, one of the founding members of this Tolkien website)-Verlyn Flieger-Turgon (=David E. Smith),3.6,1593600119,9.78159E+12,eng,400,25
 16918,Touchy and Feely (Sissy Sawyer  #1),Graham Masterton,3.38,072789160X,9.78073E+12,eng,208,84,12
 16919,Prey,Graham Masterton,3.82,843946334,9.78084E+12,eng,352,776,48
 16921,The House That Jack Built,Graham Masterton,3.87,843947462,9.78084E+12,eng,385,1523,63
@@ -5486,7 +5460,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 17215,Starship Troopers,Robert A. Heinlein,4,441014100,9.78044E+12,eng,280,1060,157
 17216,Starship Troopers,Robert A. Heinlein,4,1568654308,9.78157E+12,eng,205,159,18
 17223,Diamond Age: Die Grenzwelt,Neal Stephenson-Joachim Körber,4.19,344245154X,9.78344E+12,ger,575,35,3
-17224,The Diamond Color Meditation: Color Path to the Soul,John  Diamond,5,1890995525,9.78189E+12,eng,74,5,3
 17230,Sirens and Sea Monsters (Tales from the Odyssey #3),Mary Pope Osborne-Homer-Troy Howell,4.05,786809302,9.78079E+12,en-US,112,359,22
 17233,The Scarlet Letter,Nathaniel Hawthorne,3.39,1419542206,9.78142E+12,eng,553,22,4
 17236,Dracula,Bram Stoker-Jan Needle-Gary Blythe,3.99,744586534,9.78074E+12,eng,336,73,8
@@ -5688,10 +5661,8 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 17976,Hope Springs Eternal (Prairie River  #4),Kristiana Gregory,4.26,439440033,9.78044E+12,eng,176,128,6
 17977,The Ancestor's Tale: A Pilgrimage to the Dawn of Evolution,Richard Dawkins,4.13,061861916X,9.78062E+12,eng,688,18593,581
 17982,The Reverse of the Medal (Aubrey & Maturin #11),Patrick O'Brian,4.41,6499260,9.78001E+12,eng,261,177,11
-,,,,,,,,,
 17986,Teleny or the Reverse of the Medal,Oscar Wilde,3.68,1595690360,9.7816E+12,eng,138,932,59
 17988,The Far Side of the World (Aubrey/Maturin  #10),Patrick O'Brian,4.45,393324761,9.78039E+12,en-US,406,107,16
-,,,,,,,,,
 17994,The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography,Simon Singh,4.31,385495323,9.78039E+12,eng,412,15078,932
 17998,The Eternity Code (Artemis Fowl  #3),Eoin Colfer,4.05,786856289,9.78079E+12,en-US,309,1594,122
 18003,The Gunslinger (The Dark Tower  #1),Stephen King-Michael Whelan,3.96,451210840,9.78045E+12,eng,300,5740,777
@@ -6051,7 +6022,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 19126,From Far Away  Vol. 01,Kyoko Hikawa-Trina Robbins-Yuko Sawada-Walden Wong,4.31,1591165997,9.78159E+12,eng,190,5737,118
 19129,Silos  Politics and Turf Wars: A Leadership Fable about Destroying the Barriers That Turn Colleagues Into Competitors,Patrick Lencioni,4.04,787976385,9.78079E+12,eng,224,2419,151
 19134,Moral Politics: How Liberals and Conservatives Think,George Lakoff,4.03,226467716,9.78023E+12,eng,471,1215,129
-,,,,,,,,,
 19136,El misterio de Salem's Lot,Stephen King-Marta I. Guastavino,4.01,8484504794,9.78848E+12,spa,509,14,2
 19137,'Salem's Lot,Stephen King,4.01,451098277,9.78045E+12,eng,817,14,3
 19140,In Silent Graves (Cedar Hill #1),Gary A. Braunbeck,3.8,843953292,9.78084E+12,eng,378,669,83
@@ -6293,7 +6263,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 20075,Dragon's Fire (Pern  #19),Anne McCaffrey-Todd McCaffrey,3.97,345480287,9.78035E+12,eng,366,7762,164
 20076,Maelstrom,Anne McCaffrey-Elizabeth Ann Scarborough,3.86,345470044,9.78035E+12,eng,237,1064,37
 20086,The Mark of the Crown (Star Wars: Jedi Apprentice  #4),Jude Watson,3.72,590519344,9.78059E+12,eng,131,2247,63
-,,,,,,,,,
 20117,Joy Within,Joan Goldstein-Manuela Soares,4.38,671763792,9.78067E+12,en-US,144,8,3
 20118,Butch/Femme,Manuela Soares-Judy Grahn-Nisa Donnelly,3.62,517702223,9.78052E+12,eng,64,13,1
 20127,Persuasive Writing: Mini-Lessons  Strategies  Activities,Tara MacCarthy-Drew Hires,3.2,590209345,9.78059E+12,eng,64,5,1
@@ -6483,12 +6452,9 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 21341,Jack of Fables  Vol. 1: The (Nearly) Great Escape,Bill Willingham-Matthew Sturges-Tony Akins-Andrew Pepoy,3.58,1401212220,9.7814E+12,eng,128,4288,265
 21343,The Five Dysfunctions of a Team: A Leadership Fable,Patrick Lencioni,4.02,787960756,9.78079E+12,eng,227,57971,2571
 21348,Aesop's Fables,Aesop-Laura Harris-Laura Gibbs,4.05,192840509,9.78019E+12,eng,306,95008,901
-,,,,,,,,,
 21353,Odd Thomas (Odd Thomas #1),Dean Koontz-David Baker,3.96,739301764,9.78074E+12,eng,11,101,33
 21362,Seize the Night (Moonlight Bay  #2),Dean Koontz-Keith Szarabajka,4.08,553479016,9.78055E+12,eng,464,23052,380
-,,,,,,,,,
 21370,The Good Guy,Dean Koontz-Richard Ferrrone,3.82,739332937,9.78074E+12,eng,9,111,24
-,,,,,,,,,
 21426,2nd Chance (Women's Murder Club #2),James Patterson-Melissa Leo-Jeremy Piven-Andrew Gross,4.03,1594831165,9.78159E+12,eng,5,28,4
 21430,The Big Bad Wolf,James Patterson-Peter J. Fernandez-Denis O'Hare,3.99,1586215809,9.78159E+12,eng,8,99,13
 21437,Pop Goes the Weasel,James Patterson-Roger Rees-Keith David,3.99,1594836116,9.78159E+12,en-GB,460,46,4
@@ -6513,9 +6479,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 21543,The Poet,Michael Connelly-Buck Schirner,4.2,1423323238,9.78142E+12,eng,15,108,32
 21544,The Concrete Blonde (Harry Bosch  #3),Michael Connelly-Dick Hill,4.15,1596009209,9.7816E+12,en-US,12,127,28
 21545,The Best American Mystery Stories 2003,Michael Connelly-Otto Penzler,3.6,618390723,9.78062E+12,eng,1,4,1
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
 21581,Chance (Spenser  #23),Robert B. Parker-Burt Reynolds,4.1,787107123,9.78079E+12,en-US,4,13,2
 21607,Camouflage,Joe Haldeman,3.63,441012523,9.78044E+12,eng,289,4836,279
 21608,The Accidental Time Machine,Joe Haldeman,3.7,441014992,9.78044E+12,eng,278,6338,631
@@ -6605,16 +6568,10 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 21874,The Last Kingdom (The Saxon Stories  #1),Bernard Cornwell-Jamie Glover,4.25,61126578,9.78006E+12,eng,6,16,1
 21895,The Last Kingdom (The Saxon Stories  #1),Bernard Cornwell-Tom Sellwood,4.25,792734750,9.78079E+12,en-GB,13,48,19
 21906,The Last Kingdom (The Saxon Stories  #1),Bernard Cornwell-Jamie Glover,4.25,60759259,9.78006E+12,eng,6,37,8
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
 21947,Bevor es Nacht wird. Ein Leben in Havanna,Reinaldo Arenas,4.17,3423129867,9.78342E+12,ger,400,15,2
-,,,,,,,,,
 21972,Relic (Pendergast #1),Douglas Preston-Lincoln Child,4.02,1423330412,9.78142E+12,eng,473,148,39
-,,,,,,,,,
 21980,Tyrannosaur Canyon,Douglas Preston-Scott Sowers,3.81,1593977794,9.78159E+12,eng,12,78,18
 21984,Brimstone  (Pendergast  #5; Diogenes  #1),Douglas Preston-Lincoln Child-Scott Brick,4.14,1415903735,9.78142E+12,eng,19,20,5
-,,,,,,,,,
 21996,The Devil in the White City: Murder  Magic  and Madness at the Fair That Changed America,Erik Larson-Tony Goldwyn,3.99,739303406,9.78074E+12,eng,447,390272,22826
 22017,King Icahn,Mark       Stevens-Carol Bloom Stevens,3.97,525936130,9.78053E+12,eng,336,35,1
 22026,The Sicilian,Mario Puzo,3.96,345441702,9.78035E+12,eng,416,15801,475
@@ -6635,7 +6592,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 22070,A Killing in Comics (Jack & Maggie Starr  #1),Max Allan Collins-Terry Beatty,3.65,042521365X,9.78043E+12,eng,272,145,28
 22072,The War of the Worlds Murder (Disaster Series  #6),Max Allan Collins,3.7,425204014,9.78043E+12,eng,256,184,37
 22076,From a Buick 8,Stephen King,3.44,743211375,9.78074E+12,eng,356,51654,1249
-,,,,,,,,,
 22080,Westworld,Michael Crichton,3.66,553084410,9.78055E+12,eng,107,1620,33
 22082,Jurassic Park,Michael Crichton,4.01,345418956,9.78035E+12,en-US,400,26,4
 22095,Binary,John Lange,3.52,394479874,9.78039E+12,eng,213,91,10
@@ -6649,7 +6605,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 22123,The Coming Economic Collapse: How You Can Thrive When Oil Costs $200 a Barrel,Stephen Leeb-Glen C. Strathy,3.39,446699004,9.78045E+12,en-US,211,33,3
 22126,Betrayal of Trust: The Collapse of Global Public Health,Laurie Garrett-Steven M. Wolinsky,4.11,786884401,9.78079E+12,eng,768,1097,48
 22127,Crash Proof: How to Profit from the Coming Economic Collapse,Peter D. Schiff-John Downes,3.79,470043601,9.78047E+12,eng,272,1066,88
-22128,Patriots (The Coming Collapse),James Wesley, Rawles,3.63,156384155X,9.78156E+12,eng,342,38
 22130,On Late Style: Music and Literature Against the Grain,Edward W. Said,3.92,037542105X,9.78038E+12,eng,176,10,1
 22133,The World  the Text  and the Critic,Edward W. Said-إدوارد سعيد,4.19,674961870,9.78067E+12,eng,336,194,6
 22135,Culture and Imperialism,Edward W. Said,4.15,679750541,9.78068E+12,eng,380,3905,119
@@ -6659,7 +6614,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 22148,Homepage Usability: 50 Websites Deconstructed,Jakob Nielsen-Marie Tahir,3.72,073571102X,9.78074E+12,eng,336,333,11
 22155,Let My People Go Surfing: The Education of a Reluctant Businessman,Yvon Chouinard,4.21,143037838,9.78014E+12,eng,272,6467,594
 22159,Ten Little Indians,Agatha Christie,4.25,671801511,9.78067E+12,eng,173,40,7
-,,,,,,,,,
 22163,The Wild Trees: A Story of Passion and Daring,Richard   Preston,4.08,1400064899,9.7814E+12,eng,294,5255,902
 22166,The Boat of Dreams: A Christmas Story,Richard   Preston-George Henry Jennings,3.31,074324592X,9.78074E+12,eng,111,111,20
 22175,Strange Pilgrims,Gabriel García Márquez,4.03,1400034698,9.7814E+12,eng,208,6648,402
@@ -7074,7 +7028,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 23547,America (The Book): A Citizen's Guide to Democracy Inaction  (Teacher's Edition),Jon Stewart-Scott C. Jacobson,4.02,446691860,9.78045E+12,en-GB,227,1819,118
 23548,The Children's Book of America,William J. Bennett-Michael Hague,4.17,684849305,9.78068E+12,en-US,112,86,11
 23549,The Journal of Scott Pendleton Collins: A World War 2 Soldier,Walter Dean Myers,3.97,439050138,9.78044E+12,eng,140,1094,170
-23552,The New Big Book of America,Todd Davis-Marc Frey,5,762412631,9.78076E+12,eng,56,2,1
 23558,Awake in the Dark: The Best of Roger Ebert,Roger Ebert-David Bordwell,4.2,226182002,9.78023E+12,eng,512,401,29
 23563,"Ebert's ""Bigger"" Little Movie Glossary",Roger Ebert-Ray Ebert,3.87,836282892,9.78084E+12,en-US,228,78,8
 23573,The Perfect London Walk,Roger Ebert-Daniel Curley-Jack Lane,4.21,836279298,9.78084E+12,eng,123,37,6
@@ -7868,7 +7821,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 26314,Medal of Honor: Rising Sun (Prima's Official Strategy Guide),Mark Cohen,3.67,761542914,9.78076E+12,eng,96,3,1
 26321,The Elder Scrolls IV: Oblivion -- Revised & Expanded (Xbox360  PC) (Prima Official Game Guide),Peter Olafson,4.31,076155548X,9.78076E+12,eng,432,56,4
 26324,Social Intelligence: The New Science of Human Relationships,Daniel Goleman,3.98,553803522,9.78055E+12,eng,403,9957,301
-,,,,,,,,,
 26329,Emotional Intelligence: Why It Can Matter More Than IQ,Daniel Goleman,4.01,055380491X,9.78055E+12,eng,384,57944,1481
 26330,Healing Emotions: Conversations with the Dalai Lama on Mindfulness  Emotions  and Health,Daniel Goleman,4.05,1590300106,9.78159E+12,eng,288,291,8
 26344,The MacMillan Bible Atlas,Yohanan Aharoni-Michael Avi-Yonah,4.35,25006053,9.78003E+12,en-US,215,14,2
@@ -7921,7 +7873,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 26590,The Final Battle (Tales from the Odyssey  #6),Mary Pope Osborne-Troy Howell,4.08,786809949,9.78079E+12,en-US,112,254,17
 26591,Ancient Greece and the Olympics (Magic Tree House Research Guide  #10),Mary Pope Osborne-Natalie Pope Boyce-Salvatore Murdocca,4.06,375823786,9.78038E+12,eng,119,1044,29
 26592,Ancient Rome and Pompeii (Magic Tree House Research Guide  #14),Mary Pope Osborne-Natalie Pope Boyce-Salvatore Murdocca,4.07,375832203,9.78038E+12,eng,128,644,28
-,,,,,,,,,
 26595,Earthquake in the Early Morning (Magic Tree House  #24),Mary Pope Osborne-Salvatore Murdocca,3.93,067989070X,9.78068E+12,eng,96,6580,221
 26596,Complete Poems  1904-1962,E.E. Cummings,4.35,871401525,9.78087E+12,eng,1136,19244,185
 26597,100 Selected Poems,E.E. Cummings,4.31,394172191,9.78039E+12,eng,121,229,24
@@ -8546,12 +8497,9 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 29248,Kevin Trudeau's Mega Memory: How to Release Your Superpower Memory in 30 Minutes Or Less a Day,Kevin Trudeau,3.51,688153879,9.78069E+12,eng,368,124,14
 29251,Still Here: Embracing Aging  Changing and Dying,Ram Dass-Richard Alpert,4.12,1573228710,9.78157E+12,en-US,224,786,73
 29252,Paths to God: Living the Bhagavad Gita,Ram Dass-Richard Alpert,4.33,1400054036,9.7814E+12,en-US,352,559,42
-,,,,,,,,,
 29254,Be Here Now,Ram Dass-Richard Alpert,4.29,517543052,9.78052E+12,en-US,416,20105,680
 29255,The Only Dance There Is,Ram Dass-Richard Alpert,4.24,385084137,9.78039E+12,en-US,192,677,29
 29256,Journey of Awakening: A Meditator's Guidebook,Ram Dass-Richard Alpert,4.16,553285726,9.78055E+12,en-US,448,858,53
-,,,,,,,,,
-,,,,,,,,,
 29285,Make Way for McCloskey,Robert McCloskey-Leonard S. Marcus,4.42,067005934X,9.78067E+12,eng,144,122,8
 29286,Burt Dow  Deep-Water Man,Robert McCloskey,4.1,014050978X,9.78014E+12,en-US,64,645,51
 29288,One Morning in Maine,Robert McCloskey,4.37,140501746,9.78014E+12,eng,64,11683,255
@@ -9116,7 +9064,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 31266,The Scarlatti Inheritance,Robert Ludlum,3.84,752858653,9.78075E+12,eng,381,10878,125
 31267,The Arctic Event (Covert-One  #7),James H. Cobb-Robert Ludlum,4.01,446699071,9.78045E+12,eng,390,4299,123
 31268,The Aquitaine Progression,Robert Ludlum,3.93,752858521,9.78075E+12,eng,800,16113,103
-,,,,,,,,,
 31271,The Matlock Paper,Robert Ludlum,3.87,752858637,9.78075E+12,eng,352,12206,75
 31294,Fat Pig,Neil LaBute,3.56,057121150X,9.78057E+12,en-US,112,2312,97
 31299,Hickory Dickory Dock (Hercule Poirot  #32),Agatha Christie-Hugh Fraser,3.74,1572705647,9.78157E+12,eng,196,12677,337
@@ -9451,7 +9398,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 32484,The Necessary Shakespeare,William Shakespeare,4.33,321272501,9.78032E+12,eng,896,90,10
 32487,Shakespeare After All,Marjorie Garber,4.37,385722141,9.78039E+12,eng,1008,832,59
 32490,The QPB Companion to The Lord of the Rings,Brandon Geist,3.31,965307883,9.78097E+12,eng,104,72,9
-,,,,,,,,,
 32499,The Pelican Brief,John Grisham-Джон Гришэм,3.98,385339704,9.78039E+12,eng,400,323142,1844
 32500,The Harry Bosch Novels  Volume 1: The Black Echo / The Black Ice / The Concrete Blonde (Harry Bosch #1-3),Michael Connelly,4.34,316154970,9.78032E+12,eng,794,1966,82
 32501,Echo Park (Harry Bosch  #12; Harry Bosch Universe  #16),Michael Connelly,4.11,316734950,9.78032E+12,eng,405,34543,1420
@@ -9549,7 +9495,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 32780,The Iliad,Homer-Andrew Lang,3.85,1904633382,9.7819E+12,eng,542,62,8
 32781,War and the Iliad,Simone Weil-Rachel Bespaloff-Christopher E.G. Benfey-Mary McCarthy,4.04,1590171454,9.78159E+12,eng,121,497,53
 32782,The Iliad,Homer-Victor G. Ambrus-Nick McCarty,3.85,753453215,9.78075E+12,eng,95,8,4
-,,,,,,,,,
 32807,Trojan Odyssey (Dirk Pitt  #17),Clive Cussler,3.93,425199320,9.78043E+12,eng,463,14788,311
 32810,The Divine Comedy II: Purgatory,Dante Alighieri-Dorothy L. Sayers-C.W. Scott-Giles,4.02,140440461,9.78014E+12,en-US,388,341,28
 32811,The Divine Comedy,Dante Alighieri-C.H. Sisson-David H. Higgins,4.07,192835025,9.78019E+12,en-US,735,173,10
@@ -9557,7 +9502,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 32813,Modern Reader's Guide to Dante's the Divine Comedy,Joseph Gallagher,4.53,764804944,9.78076E+12,eng,256,29,2
 32814,The Canterbury Tales,Geoffrey Chaucer-Nevill Coghill,3.49,140440224,9.78014E+12,eng,489,1024,69
 32816,The Canterbury Tales: Fifteen Tales and the General Prologue,Geoffrey Chaucer-V.A. Kolve-Glending Olson,3.95,393925870,9.78039E+12,enm,600,1063,40
-32823,Fanning the Flame: Bible  Cross  and Mission,Chris    Green-Chris Wright-Paul Douglas Gardner,5,310249872,9.78031E+12,eng,336,1,1
 32827,From the Earth to the Moon (Extraordinary Voyages  #4),Jules Verne,3.78,1598184547,9.7816E+12,eng,136,16621,401
 32828,The Mammoth Book of New Jules Verne Adventures: Return to the Center of the Earth and Other Extraordinary Voyages  New Tales by the Heirs of Jules Verne,Mike Ashley-Eric Brown-Keith Brooke-Johan Heliot-Kevin J. Anderson-Sarah A. Hoyt-Justina Robson-Adam Roberts-Paul Di Filippo-Tim Lebbon-Molly Brown-Tony Ballantyne-Stephen Baxter-Richard A. Lupoff-Sharan Newman-Michael Pagel-Liz Williams-Brian Stableford-James Lovegrove-Ian Watson-Peter Criwther-Laurent Genefirt-F. Gwynplaine MacIntyre-Michael Mallory,3.68,786714956,9.78079E+12,eng,498,29,4
 32829,Journey to the Center of the Earth (Extraordinary Voyages  #3),Jules Verne,3.85,553213970,9.78055E+12,eng,240,101764,2353
@@ -9598,7 +9542,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 32971,Fahrenheit 451,Ray Bradbury,3.98,965020592,9.78097E+12,eng,190,185,26
 32972,Fahrenheit 451,Ray Bradbury,3.98,345023021,9.78035E+12,eng,147,208,30
 32973,Fahrenheit 451,Ray Bradbury-Francisco Abelenda,3.98,9505470010,9.78951E+12,spa,263,173,23
-,,,,,,,,,
 32975,Nancy Drew: Girl Detective: #1-4,Carolyn Keene,4.01,689036914,9.78069E+12,eng,640,2083,28
 32977,Nancy's Mysterious Letter (Nancy Drew Mystery Stories  #8),Carolyn Keene-Walter Karig,3.86,1557091625,9.78156E+12,eng,210,7986,160
 32978,The Clue in the Diary (Nancy Drew Mystery Stories  #7),Carolyn Keene-Margaret Maron-Russell H. Tandy-Mildred Benson,3.95,1557091617,9.78156E+12,eng,202,10545,199
@@ -9951,7 +9894,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 34517,Reaper Man (Discworld  #11; Death  #2),Terry Pratchett,4.29,552152951,9.78055E+12,eng,352,59901,1345
 34518,Mort (Mundodisco  #4),Terry Pratchett,4.23,8497596013,9.7885E+12,spa,317,525,51
 34521,Only You Can Save Mankind (Johnny Maxwell  #1),Terry Pratchett,3.71,60541873,9.78006E+12,eng,210,9506,301
-34523,The Flying Sorcerers: More Comic Tales of Fantasy,Peter Haining-Roald Dahl-Terry Pratchett-Angela Carter-Arthur C. Clarke-Kurt Vonnegut, Jr.-C.S. Lewis-P.G. Wodehouse-Michael Moorcock-L. Sprague de Camp-Fletcher Pratt-Eric Knight-Mervyn Peake-Piers Anthony-John Collier-Fredric Brown-Nelson S. Bond-Thomas M. Disch-Robert Bloch-Stephen Leacock-John Wyndham-Stanisław Lem-Cordwainer Smith-Robert Sheckley-William F. Nolan-Harry Harrison,3.98,1857237250,9.78186E+12,eng,383,2197
 34524,Where's My Cow? (Discworld  #34.5),Terry Pratchett-Melvyn Grant,4.11,038560937X,9.78039E+12,eng,32,8871,281
 34528,Johnny and the Dead (Johnny Maxwell  #2),Terry Pratchett,3.78,60541881,9.78006E+12,en-US,213,7733,176
 34529,Lords and Ladies (Discworld  #14; Witches #4),Terry Pratchett,4.17,055215315X,9.78055E+12,eng,400,51212,751
@@ -9988,7 +9930,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 34663,Shattered Bonds: The Color of Child Welfare,Dorothy Roberts,4.2,465070590,9.78047E+12,eng,352,145,10
 34672,Shattered Dance,Caitlin Brennan,3.91,037380248X,9.78037E+12,eng,442,423,12
 34687,Koko's Kitten,Francine Patterson-Ronald H. Cohn,4.3,590444255,9.78059E+12,eng,32,944,90
-,,,,,,,,,
 34708,The Aviators (Brotherhood of War  #8),W.E.B. Griffin,4.24,515100536,9.78052E+12,eng,464,2503,31
 34760,All I Really Need to Know I Learned in Kindergarten,Robert Fulghum,4.03,034546639X,9.78035E+12,eng,240,16935,626
 34762,Legends  Lies  Cherished Myths of World History,Richard Shenkman,3.48,60922559,9.78006E+12,eng,320,215,14
@@ -10168,7 +10109,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 35479,Ring of Fire (Ring of Fire Anthology  #1),Eric Flint-David Weber-Mercedes Lackey-Dave Freer-Andrew Dennis-Virginia DeMarce-Loren K. Jones-S.L. Viehl-Anette M. Pedersen-Jonathan Cresswell-Scott Washburn-Deann Allen-Mike Turner-Greg Donahue-Walt Boyes-Jody Dorsett-K.D. Wentworth,3.89,1416509089,9.78142E+12,eng,722,1929,63
 35481,1635: Cannon Law (Assiti Shards  #8),Eric Flint-Andrew Dennis,3.75,1416509380,9.78142E+12,eng,420,1299,32
 35484,The Ring And The Fire: Stories From Wagner's Nibelung Operas,Clyde Robert Bulla,3.67,690702523,9.78069E+12,eng,135,3,1
-,,,,,,,,,
 35488,Cash,Johnny Cash-Patrick   Carr,4.07,60727535,9.78006E+12,eng,310,16485,548
 35489,Johnny Cash,Michael Streissguth,3.79,306813688,9.78031E+12,eng,334,277,25
 35491,Controversy Creates Cash,Eric Bischoff-Jeremy Roberts,3.6,141652729X,9.78142E+12,en-GB,389,1119,58
@@ -10197,7 +10137,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 35722,Mad Cowboy: Plain Truth from the Cattle Rancher Who Won't Eat Meat,Howard F. Lyman-Glen Merzer,4.13,684854465,9.78068E+12,en-US,224,1804,165
 35724,The Life You Were Born to Live,Dan Millman,4.1,1567313981,9.78157E+12,eng,464,17,1
 35729,Lover Eternal (Black Dagger Brotherhood  #2),J.R. Ward,4.35,451218043,9.78045E+12,eng,441,152091,5181
-,,,,,,,,,
 35738,My Century,Günter Grass-Michael Henry Heim,3.45,571203124,9.78057E+12,eng,248,775,52
 35743,The Tin Drum,Günter Grass-Ralph Manheim,3.96,99483505,9.7801E+12,eng,580,28718,894
 35750,Sodom and Gomorrah (In Search of Lost Time  #4),Marcel Proust-C.K. Scott Moncrieff-Terence Kilmartin-D.J. Enright,4.36,375753109,9.78038E+12,eng,784,354,58
@@ -10370,7 +10309,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 36706,The Oxford Dictionary of Quotations,Elizabeth Knowles,4.17,198601735,9.7802E+12,en-US,1536,37,2
 36717,The Return of Grand Theory in the Human Sciences,Quentin Skinner,3.82,521398339,9.78052E+12,en-US,224,26,3
 36775,Tales of Magick: Dark Adventure,Phil Brucato-Aaron Rosenberg,3.5,1565044045,9.78157E+12,eng,96,38,2
-36853,Tyrannosaurus Wrecks (Stanley  #1),Laura Driscoll-Alisa Klayman-Grodsky-Eric     Weiner,5,786845031,9.78079E+12,eng,24,2,1
 36893,On Film (Thinking in Action),Stephen Mulhall,3.86,415247969,9.78042E+12,eng,142,33,1
 36904,Warren G. Harding (The American Presidents  #29),John W. Dean-Arthur M. Schlesinger Jr.,3.77,805069569,9.78081E+12,eng,202,665,71
 36926,Spawn of Azathoth: Herald of the End of Time (Call of Cthulhu RPG),Keith Herber,3.81,1568821786,9.78157E+12,eng,197,19,1
@@ -10611,7 +10549,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 37900,Turn of the Cards (Wild Cards  #12),George R.R. Martin-Victor Milán,3.69,553561529,9.78055E+12,eng,432,543,15
 37905,Dr. Seuss (First Biographies),Cheryl Carlson,4.32,736850910,9.78074E+12,eng,24,14,1
 37909,Go Jump in the Pool! (Macdonald Hall  #2),Gordon Korman,4.15,590442090,9.78059E+12,eng,192,1395,38
-,,,,,,,,,
 37912,Beware The Fish!,Gordon Korman,4.19,590319647,9.78059E+12,eng,201,14,1
 37947,The Pusher (87th Precinct  #3),Ed McBain,3.89,752857932,9.78075E+12,eng,192,1051,69
 37951,Eight Black Horses (87th Precinct  #38),Ed McBain-Mark T. Sullivan,3.91,743463080,9.78074E+12,eng,336,710,38
@@ -10689,7 +10626,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 38401,Company,Max Barry,3.73,1400079373,9.7814E+12,eng,338,4844,406
 38412,Fermat's Enigma: The Epic Quest to Solve the World's Greatest Mathematical Problem,Simon Singh,4.24,385493622,9.78039E+12,eng,315,18495,638
 38414,The Science Book,Peter Tallack-Simon Singh,4.05,1841882542,9.78184E+12,eng,528,23,1
-,,,,,,,,,
 38420,The Truth About Stacey (The Baby-Sitters Club  #3),Ann M. Martin,3.85,439389844,9.78044E+12,eng,167,50,4
 38421,Good-bye Stacey  Good-bye (The Babysitters Club  #13),Ann M. Martin,3.65,590764705,9.78059E+12,eng,132,2623,34
 38422,Kristy's Great Idea (The Baby-Sitters Club  #1),Ann M. Martin,3.97,439284244,9.78044E+12,eng,153,77,2
@@ -10985,7 +10921,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 39937,Blue Angel,Francine Prose,3.35,60882034,9.78006E+12,eng,314,2883,374
 39941,Household Saints,Francine Prose,3.7,60507276,9.78006E+12,en-US,272,364,45
 39954,Dame Agatha Abroad: Murder on the Orient Express / They Came to Bagdad / Murder in Mesopotamia,Agatha Christie,4.02,739460870,9.78074E+12,eng,568,43,6
-,,,,,,,,,
 39960,Carl Hiaasen's South Florida Three Book Set,Carl Hiaasen,4.29,446190721,9.78045E+12,eng,1584,58,4
 39961,He Came to Set the Captives Free,Rebecca  Brown,4.09,883683237,9.78088E+12,en-US,288,1523,159
 39963,A Long Way from Chicago (A Long Way from Chicago  #1),Richard Peck,3.93,142401102,9.78014E+12,eng,160,29670,2060
@@ -11103,7 +11038,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 40338,Love Overboard,Janet Evanovich-C.J. Critt,3.65,006073695X,9.78006E+12,eng,5,90,21
 40339,The Rocky Road to Romance (Elsie Hawkins  #4),Janet Evanovich-C.J. Critt,3.67,60738251,9.78006E+12,eng,5,88,25
 40342,Two for the Dough (Stephanie Plum  #2),Janet Evanovich,4.11,312948964,9.78031E+12,en-US,325,2441,289
-,,,,,,,,,
 40347,Hard Eight (Stephanie Plum  #8),Janet Evanovich,4.17,747267626,9.78075E+12,eng,339,152,12
 40351,Four to Score (Stephanie Plum  #4),Janet Evanovich,4.17,330371223,9.78033E+12,en-GB,311,352,29
 40359,Hot Six (Stephanie Plum  #6),Janet Evanovich,4.19,033037124X,9.78033E+12,eng,324,300,28
@@ -11112,8 +11046,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 40364,The Martians (Mars Trilogy  #3.5),Kim Stanley Robinson,3.56,553574019,9.78055E+12,eng,434,1434,83
 40372,Pirates of Venus (Venus  #1),Edgar Rice Burroughs-Thomas Floyd-F. Paul Wilson-Phillip R. Burger,3.69,803261837,9.7808E+12,eng,179,1203,63
 40376,Swords of Mars (Barsoom  #8),Edgar Rice Burroughs,3.81,345329562,9.78035E+12,eng,191,2733,58
-,,,,,,,,,
-,,,,,,,,,
 40384,Synthetic Men of Mars (Barsoom  #9),Edgar Rice Burroughs,3.77,345339304,9.78035E+12,eng,160,2524,53
 40385,The Master Mind of Mars (Barsoom #6),Edgar Rice Burroughs,3.84,345334248,9.78035E+12,eng,160,3833,73
 40386,A Fighting Man of Mars (Barsoom #7),Edgar Rice Burroughs,3.84,345345118,9.78035E+12,eng,239,3065,72
@@ -11292,7 +11224,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 41261,The White Widow,Jim Lehrer,3.01,189162041X,9.78189E+12,en-US,224,174,19
 41264,The Franklin Affair,Jim Lehrer,3.12,345468031,9.78035E+12,eng,208,141,25
 41270,Short List (One-Eyed Mack  #5),Jim Lehrer,4.09,399136657,9.7804E+12,eng,224,23,3
-,,,,,,,,,
 41278,Kick the Can (One-Eyed Mack  #1),Jim Lehrer,3.88,1571780599,9.78157E+12,eng,223,74,10
 41304,Strangers from a Different Shore: A History of Asian Americans,Ronald Takaki,4.12,316831301,9.78032E+12,en-US,640,851,44
 41307,La chute,Albert Camus,4.05,318634872,9.78032E+12,fre,152,84,5
@@ -12107,7 +12038,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 44735,The Elements of Typographic Style,Robert Bringhurst,4.24,881792063,9.78088E+12,en-US,352,7296,207
 44737,The Elements of Visual Style: The Basics of Print Design for Every PC and Mac User,Robert W. Harris,3.25,618772456,9.78062E+12,en-US,177,12,3
 44739,Graphic Design Solutions,Robin Landa,4.03,1401881548,9.7814E+12,en-US,403,138,11
-,,,,,,,,,
 44749,Secret for a Nightingale,Victoria Holt,3.82,449212963,9.78045E+12,eng,396,1839,34
 44750,The Devil On Horseback,Victoria Holt,3.79,449236250,9.78045E+12,eng,302,2077,55
 44755,Bride Of Pendorric / The Shadow Of Lynx / King Of The Castle / Mistress Of Mellyn,Victoria Holt,4.22,090571251X,9.78091E+12,eng,862,213,6
@@ -12281,7 +12211,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 45463,Encuentro en el Ártico (Artemis Fowl  #2),Eoin Colfer-Ana Alcaina Pérez,3.95,307343103,9.78031E+12,spa,320,15,3
 45465,Artemis Fowl (Artemis Fowl  #1),Eoin Colfer-Nathaniel Parker,3.84,1400085918,9.7814E+12,eng,6,53,13
 45467,Code Eternité (Artemis Fowl  #3),Eoin Colfer-Jean-François Ménard,4.05,2070554031,9.78207E+12,fre,385,86,1
-,,,,,,,,,
 45475,The White Cat  Fool and the Flying Ship (Rabbit Ears Treasury of World Tales #2),Unknown-Emma Thompson-Robin  Williams,4.31,739350617,9.78074E+12,eng,1,12,2
 45479,The Subtle Knife (His Dark Materials  #2),Philip Pullman-Ian Beck,4.12,375846727,9.78038E+12,eng,326,645,70
 45480,The Amber Spyglass (His Dark Materials  #3),Philip Pullman-Ian Beck,4.09,375846735,9.78038E+12,en-US,518,543,59
@@ -12436,7 +12365,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 46133,Orlando,Virginia Woolf,3.86,015670160X,9.78016E+12,eng,333,1602,173
 46135,The Wishing Box,Dashka Slater,3.05,811826066,9.78081E+12,eng,300,188,34
 46137,The Sharpshooter Blues,Lewis Nordan,4.15,1565121821,9.78157E+12,eng,398,371,41
-,,,,,,,,,
 46156,A Literate Passion: Letters of Anaïs Nin  Henry Miller  1932-1953,Anaïs Nin-Henry Miller,4.18,015652791X,9.78016E+12,eng,448,1742,49
 46157,Death in the Garden,Elizabeth Ironside,3.65,1933397179,9.78193E+12,eng,294,601,132
 46164,Tender Is the Night,F. Scott Fitzgerald,3.82,068480154X,9.78068E+12,eng,315,90467,3227
