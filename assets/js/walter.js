@@ -17,7 +17,7 @@ var svg = d3
     .attr("height", svgHeight);
  
  
- Plotly.d3.csv('wBooks.csv', function(err, rows){
+ Plotly.d3.csv(("https://raw.githubusercontent.com/ablinn91/Project-Books/master/books.csv, function(err, rows){
   function unpack(rows, key) {
     return rows.map(function(row)
     { return row[key]; });
